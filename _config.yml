@@ -13,12 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Hello!
+title: "Sangeeth Varma"
+subtitle: "Personal Website"
 email: hello@sangeethvarma.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Sangeeth's Personal Website
+  "Sangeeth's Personal Website"
 github_username: sangeethvarma
-minimal_mistakes_skin: default
+minimal_mistakes_skin: "dark"
+# url: "https://www.sangeethvarma.com"
+# baseurl: "/newersite"
 search: true
 
 # Build settings
@@ -28,7 +31,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: IN # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Kolkata # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -53,11 +56,12 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 author:
   name   : "Sangeeth Varma"
   avatar : "/assets/images/photo.png"
-  bio    : "Researcher interested in questions about information, knowledge, common sense, policy and progress. Currently engaging with topics of public understandings of science(s) and philosophy of science, in relation to crises and development. Particularly interested in how complexity and crises are reflected in our understanding of the world, in order to find ways through them. "
+  bio    : "Researcher interested in questions about information, knowledge, common sense, policy and progress.\n \n Currently engaging with topics of public understandings of science(s) and philosophy of science, in relation to crises and development. Particularly interested in how complexity and crises are reflected in our understanding of the world, in order to find ways through them. "
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -65,9 +69,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sangeethvarma"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"
 
 footer:
   links:
