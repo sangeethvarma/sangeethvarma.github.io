@@ -1,9 +1,38 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "CV"
+    url: /cv/
+  # - title: "Posts"
+  #   url: /posts/
+  # - title: "Categories"
+  #   url: /categories/
+  # - title: "Tags"
+  #   url: /tags/
+  # - title: "About"
+  #   url: /about/
+
+cv:
+  - title: Education
+    url: /cv/#education
+    children:
+      - title: "Other Courses"
+        url: /cv/#other-courses
+  - title: Experience
+    url: /cv/#experience
+    children:
+      - title: "Work"
+        url: /cv/#work
+      - title: "Research"
+        url: /cv/#research
+      - title: "Surveys"
+        url: /cv/#surveys
+      - title: "Teaching"
+        url: /cv/#teaching
+  - title: Skills and Proficiencies
+    url: /cv/#skills
+    children:
+      - title: "Technical Proficiencies"
+        url: /cv/#technical-proficiencies
+      - title: "Languages"
+        url: /cv/#languages
+  - title: Publication
+    url: /cv/#publication
