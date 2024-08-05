@@ -130,9 +130,6 @@ Work included:
 
 # Publication
 
-Sharma, C.H., Surendran, A.P., **Varma, S.S.** et al. 2D
-superconductivity and vortex dynamics in 1T-MoS2. Commun Phys 1, 90
-(2018).\\ <https://www.nature.com/articles/s42005-018-0091-7>
-
+Sharma, C.H., Surendran, A.P., **Varma, S.S.** et al. 2D superconductivity and vortex dynamics in 1T-MoS2. Commun Phys 1, 90 (2018). <https://www.nature.com/articles/s42005-018-0091-7> 
 ------------------------------------------------------------------------
 
