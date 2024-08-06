@@ -14,7 +14,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Sangeeth Varma"
-subtitle: "Personal Website"
 email: hello@sangeethvarma.com
 description: >- # this means to ignore newlines until "baseurl:"
   "Sangeeth's Personal Website"
@@ -22,7 +21,7 @@ github_username: sangeethvarma
 minimal_mistakes_skin: "dark"
 # url: "https://www.sangeethvarma.com"
 # baseurl: "/newersite"
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
@@ -63,21 +62,27 @@ author:
   avatar : "/assets/images/photo.png"
   bio    : "Researcher interested in questions about information, knowledge, common sense, policy and progress.\n \n Currently engaging with topics of public understandings of science(s) and philosophy of science, in relation to crises and development. Particularly interested in how complexity and crises are reflected in our understanding of the world, in order to find ways through them. "
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://sangeethvarma.com"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://sangeethvarma.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sangeethvarma"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/sangeeth-varma/"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
 
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/sangeethvarma"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/sangeethvarma"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:hello@sangeethvarma.com"      
 
 defaults:
   # _posts
