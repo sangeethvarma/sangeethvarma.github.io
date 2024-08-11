@@ -7,8 +7,12 @@ author_profile: false
 sidebar:
   nav: "cv"
 ---
-___
 
+Researcher interested in questions about how information and knowledge relates to society and progress.
+
+Currently engaging with topics of public understandings of science(s) and philosophy of science, in relation to crises and development. Particularly interested in how complexity and crises are reflected in our understanding of the world, in order to find ways through them.
+
+___
 # Education
 ___
 -   **M.A. Development Studies**,  
@@ -29,7 +33,6 @@ ___
 -   [2021 UNCTAD YSI Summer School 2021 on Globalization and Development Strategies](https://unctad.org/system/files/information-document/2021-summer-school-documents_en.pdf) jointly organized by the United Nations Conference on Trade and Development (UNCTAD) and the Institute of New Economic Thinking\'s Young Scholars Initiative (YSI)
   
 --- 
-
 # Experience
 ---
 
@@ -88,37 +91,29 @@ Work included:
 - Coordinator, BITS Goa Quiz Club (2015-2016)
   - Organiser, participant and winner of many quizzes at the national and regional levels
 
+___
 # Skills and Proficiencies {#skills}
+___
 ## Technical Proficiencies
 -   Qualitative Research Methods
     -   Literature Review, Surveys, Interviews, Focus Group Discussions
     -   Familiar with software tools for analysis, online surveying, transcription and translation
-
 -   Statistics and Quantitative Research
-
     -   Proficient at quantitative research methods
     -   Software tools such as MATLAB, numpy, Stata, SPSS, R
-	
 -   Data Acquisition, Processing, Organization and Visualization Technologies
     -   Familiarity with control systems for management of sensors and other devices, data transfer technologies and protocols
-
 -   Computer Programming
     -   Languages:
         -   Proficient with Python (primarily scripting, and data analysis aspects)
         -   Basic knowledge and some experience with lisps, C++
-	
 -   Web Development
 -   Hosting and Server Management Basics
-
 -   Databases
     -   SQL, as well general Relational Database operations
-
 -   Typesetting (LaTEX)
-
 -   Office Software
-
 -   Basics of audio and video editing, and live-streaming (using open-source tools)
-
 -   General proficiency with scripting, computers and technology
 
 ## Languages
@@ -126,7 +121,7 @@ Work included:
 -   Familiar with: Tamil, 
 -   Basic Spanish
 
-------------------------------------------------------------------------
-
+---
 # Publication
+---
 Sharma, C.H., Surendran, A.P., **Varma, S.S.** et al. 2D superconductivity and vortex dynamics in 1T-MoS2. Commun Phys 1, 90 (2018). <https://www.nature.com/articles/s42005-018-0091-7> 
