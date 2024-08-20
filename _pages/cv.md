@@ -12,6 +12,7 @@ Researcher interested in questions about how information and knowledge relates t
 
 Currently engaging with topics of public understandings of science(s) and philosophy of science, in relation to crises and development. Particularly interested in how complexity and crises are reflected in our understanding of the world, in order to find ways through them.
 
+(PDF copy can be found [here](/assets/pdf/cv-latest.pdf).)
 ___
 # Education
 ___
