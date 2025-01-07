@@ -46,11 +46,7 @@ ___
      - Identification and analysis of existing policy instruments in Odisha that had relevance to CSA, their implementation, and institutional linkages.
     - Being a part of the team who conducted field visits to different parts of Odisha, with Focus Group Discussions with farmers, and in-depth interviews with officials from various departments at the district and local levels. The information from the field visits was analyzed and used to create recommendations. 
 	- Formulating an institutional structure for coordination of Climate Smart Agriculture in Bihar. This involved analysis of the existing policy instruments and their institutional structures and interviews with various stakeholders, thus identifying the requirements for an institutional structure for CSA program.
-	
-	Other work included:
-	- Assisting with literature review for reports.
-	- Assisting with citation management for reports.
-
+ - Assisting with literature review and citation for other reports.
 ## Research
 
 ### [Dissertation, for M.A. Development Studies](/assets/pdfs/ds-dissertation.pdf)
@@ -77,8 +73,8 @@ Work included:
 ### Surveys
 
 - March, 2022: As part of a team, designed, conducted and analyzed a household-based survey on _Multidimensional Poverty Index, Community
-    Well-being, and Institutional Interface_ in Vashi Naka, Mumbai on behalf of [YUVA India](https://yuvaindia.org/). Created a report: \"Breaking the Cycle of Poverty: Exploring the Multidimensional Poverty Index and Institutional Interface to Promote Community Well-being\", that was well-received by the organization. 
-	
+    Well-being, and Institutional Interface_ in Vashi Naka, Mumbai on behalf of [YUVA India](https://yuvaindia.org/). The survey was complemented with in-depth interviews and Focus-Group Discussions. Created a report: \"Breaking the Cycle of Poverty: Exploring the Multidimensional Poverty Index and Institutional Interface to Promote Community Well-being\", that was well-received by the organization.
+  	
 - July, 2015: As part of a team, designed, conducted and analyzed the results of a household-based survey to study the status and well-being of the elderly in the Chullickal ward of the Kochi Municipal Corporation, on behalf of the Corporation and HelpAge India. Created and presented a report to the authorities.
 
 ## Teaching
@@ -120,8 +116,7 @@ ___
 
 ## Languages
 -   Proficient in: English, Malayalam, Hindi
--   Familiar with: Tamil, 
--   Basic Spanish
+-   Familiar with: Tamil, Spanish
 
 ---
 # Publication
