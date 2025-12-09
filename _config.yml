@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Sangeeth Varma"
   avatar : "/assets/images/photo.png"
-  bio    : "Researcher interested in questions about how information and knowledge relates to society and development."
+  bio    : "Researcher interested in questions about how information and knowledge relate to society and development."
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
