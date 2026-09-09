@@ -85,7 +85,7 @@ footer:
     #   url: "https://github.com/sangeethvarma"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:contact@sangeethvarma.com"      
+      url: "mailto:sangeeth.s.varma@protonmail.com"      
 
 defaults:
   # _posts
