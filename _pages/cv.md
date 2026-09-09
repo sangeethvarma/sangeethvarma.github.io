@@ -18,7 +18,7 @@ ___
 # Education
 ___
 -   **Ph.D. Social Sciences** (in progress),  
-	National Institute of Advanced Studies (NIAS), Bengaluru, [YEAR]-present  
+	National Institute of Advanced Studies (NIAS), Bengaluru, 2025-present  
 	Supervisor: Dr. Anant Kamath  
 	Working title: *"Developmental Publics: Infrastructure, Politics, and Contested Visions of Progress in Keralam"*
 
