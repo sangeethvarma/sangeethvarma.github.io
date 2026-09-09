@@ -15,8 +15,11 @@ Currently a PhD candidate at NIAS, Bengaluru, researching infrastructure politic
 (PDF copy can be found [here](/assets/pdfs/cv-latest.pdf).)
 
 ___
+
 # Education
+
 ___
+
 -   **Ph.D. Social Sciences** (in progress),  
 	National Institute of Advanced Studies (NIAS), Bengaluru, 2025-present  
 	Supervisor: Dr. Anant Kamath  
@@ -39,19 +42,24 @@ ___
 -   [2021 Summer Crash Course on Ecological and Feminist Macroeconomics](https://www.ub.edu/school-economics/summer-crash-course/) conducted by the Faculty of Economics and Business, Universitat de Barcelona
 -   [2021 UNCTAD YSI Summer School 2021 on Globalization and Development Strategies](https://unctad.org/system/files/information-document/2021-summer-school-documents_en.pdf) jointly organized by the United Nations Conference on Trade and Development (UNCTAD) and the Institute of New Economic Thinking\'s Young Scholars Initiative (YSI)
   
---- 
+___
+
 # Experience
----
+
+___
 
 ## Work
+
 - __Internship, [Sustainable Food Systems, Council on Energy, Environment and Water](https://www.ceew.in/research/sustainable-food-systems)__
 
 	Worked primarily in the Climate Smart Agriculture (CSA) Project, with focus on the institutionalization of CSA in Bihar and the scaling up of CSA in Odisha. Work included:
+
 	- Investigating the implementation of CSA in Odisha. This involved:
      - Identification and analysis of existing policy instruments in Odisha that had relevance to CSA, their implementation, and institutional linkages.
     - Being a part of the team who conducted field visits to different parts of Odisha, with Focus Group Discussions with farmers, and in-depth interviews with officials from various departments at the district and local levels. The information from the field visits was analyzed and used to create recommendations. 
 	- Formulating an institutional structure for coordination of Climate Smart Agriculture in Bihar. This involved analysis of the existing policy instruments and their institutional structures and interviews with various stakeholders, thus identifying the requirements for an institutional structure for CSA program.
  - Assisting with literature review and citation for other reports.
+
 ## Research
 
 ### Doctoral Research
@@ -65,6 +73,7 @@ _"The Scientific Publics in Keralam: A Study of the Kerala Shastra Sahitya Paris
 Critically examining the activities and discourses of the KSSP, the People's Science Movement of Keralam - historically, as well as in the context of the COVID-19 pandemic - and situating it in the context of the scientific public sphere of Keralam and developmental discourse, in order to examine the response of a decentralised popular movement to changing society and to its crises.
 
 Work included:
+
 - Review of the literature on the KSSP, on philosophies of science, and on science and society.
 - Finding reports on the activities of the KSSP in newspapers and on the internet
 - Analysing the public-facing communications of the KSSP through its YouTube channel. This involved:
@@ -76,6 +85,7 @@ Work included:
 Working in the Quantum Transport group at the Indian Institute of Science Education and Research, Thiruvananthapuram under Dr. Madhu Thalakulam.
 
 Work included:
+
 - Theoretical and simulation work on quantum transport systems
 - Automation of electrical transport measurements for multi-gated quantum devices.
     - Created software workflows for the set-up of experimental parameters, management of the multiple devices and instruments, and for management of the large data sets generated from experiments.
@@ -101,8 +111,11 @@ Work included:
   - Organiser, participant and winner of many quizzes at the national and regional levels
 
 ___
+
 # Skills and Proficiencies {#skills}
+
 ___
+
 ## Technical Proficiencies
 -   Qualitative Research Methods
     -   Literature Review, Surveys, Interviews, Focus Group Discussions
@@ -129,7 +142,10 @@ ___
 -   Proficient in: English, Malayalam, Hindi
 -   Familiar with: Tamil, Spanish
 
----
+___
+
 # Publication
----
+
+___
+
 Sharma, C.H., Surendran, A.P., **Varma, S.S.** et al. 2D superconductivity and vortex dynamics in 1T-MoS2. Commun Phys 1, 90 (2018). <https://www.nature.com/articles/s42005-018-0091-7> 
