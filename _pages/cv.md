@@ -10,13 +10,18 @@ sidebar:
 
 Researcher interested in questions about how information and knowledge relates to society and progress.
 
-Currently engaging with topics of public understandings of science(s) and philosophy of science, in relation to crises and development. Particularly interested in how complexity and crises are reflected in our understanding of the world, in order to find ways through them.
+Currently a PhD candidate at NIAS, Bengaluru, researching infrastructure politics, expertise, and contested visions of development in Keralam. More broadly interested in public understandings of science, and in how complexity and crises are reflected in our understanding of the world, in order to find ways through them.
 
 (PDF copy can be found [here](/assets/pdfs/cv-latest.pdf).)
 
 ___
 # Education
 ___
+-   **Ph.D. Social Sciences** (in progress),  
+	National Institute of Advanced Studies (NIAS), Bengaluru, [YEAR]-present  
+	Supervisor: Dr. Anant Kamath  
+	Working title: *"Developmental Publics: Infrastructure, Politics, and Contested Visions of Progress in Keralam"*
+
 -   **M.A. Development Studies**,  
 	Tata Institute of Social Sciences, 2020-2023
 	
@@ -48,6 +53,12 @@ ___
 	- Formulating an institutional structure for coordination of Climate Smart Agriculture in Bihar. This involved analysis of the existing policy instruments and their institutional structures and interviews with various stakeholders, thus identifying the requirements for an institutional structure for CSA program.
  - Assisting with literature review and citation for other reports.
 ## Research
+
+### Doctoral Research
+_"Developmental Publics: Infrastructure, Politics, and Contested Visions of Progress in Keralam"_ (working title):
+Examining Kerala's "infrastructure turn" — the shift toward capital-intensive megaprojects financed through off-budget vehicles like KIIFB — through the lens of "Developmental Publics," the multiple, shifting collectivities that form around competing visions of infrastructure, welfare, ecology, and progress. Uses the shelved K-Rail SilverLine project as an empirical site to investigate how state expertise is constructed and contested, and what this reveals about democratic participation in development planning.
+
+Methodology: Critical Discourse Analysis of policy documents, DPRs, EIAs, and budget speeches, complemented by semi-structured interviews with policymakers, technical experts, activists, and affected communities, and field visits to sites of mobilization.
 
 ### [Dissertation, for M.A. Development Studies](/assets/pdfs/ds-dissertation.pdf)
 _"The Scientific Publics in Keralam: A Study of the Kerala Shastra Sahitya Parishad During the COVID-19 Pandemic"_ :

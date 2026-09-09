@@ -1,4 +1,6 @@
 main:
+  - title: "About"
+    url: /about/
   - title: "CV"
     url: /cv/
   # - title: "Posts"
@@ -7,8 +9,6 @@ main:
   #   url: /categories/
   # - title: "Tags"
   #   url: /tags/
-  # - title: "About"
-  #   url: /about/
 
 cv:
   - title: Education
