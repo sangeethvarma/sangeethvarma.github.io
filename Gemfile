@@ -8,6 +8,7 @@ gem "tzinfo-data"
 gem "webrick"
 gem "csv"
 gem "faraday-retry"
+gem "rexml"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
